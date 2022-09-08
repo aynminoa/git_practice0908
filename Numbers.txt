@@ -4,11 +4,7 @@
 3 コンフリクトするのは怖い hoge
 5 hoge
 6 hoge
-<<<<<<< HEAD
 7 kuramochi_edit
-=======
-7 Hi!!
->>>>>>> master
 9 hoge
 8 hoge
 10 hoge
